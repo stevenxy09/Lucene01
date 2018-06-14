@@ -41,7 +41,7 @@ public class Searcher {
 	}
 	
 	public static void main(String[] args) {
-		String indexDir="D://lucene";
+		String indexDir="D:\\lucene";
 		String q="Zygmunt Saloni";
 		try {
 			search(indexDir, q);

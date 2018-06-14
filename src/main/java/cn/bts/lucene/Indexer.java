@@ -80,8 +80,8 @@ public class Indexer {
 	}
 	
 	public static void main(String[] args) {
-		String indexDir="D://lucene";
-		String dataDir="D://lucene//data";
+		String indexDir="D:\\lucene";
+		String dataDir="D:\\lucene\\data";
 		Indexer indexer = null;
 		int numberIndex=0;
 		long start=System.currentTimeMillis();
